@@ -1,0 +1,67 @@
+[
+  {
+    "idpatient": 6,
+    "FName": "Jay",
+    "LName": "Bird",
+    "street_addrs": "123 Make Up Lane",
+    "ZipID": 30308,
+    "BedID": 1,
+    "roomid": 3,
+    "RoomID": 3,
+    "RoomNum": 200,
+    "RoomAvail": 1,
+    "RoomSize": "2X2"
+  },
+  {
+    "idpatient": 7,
+    "FName": "Pat",
+    "LName": "Jones",
+    "street_addrs": "456 School Lane",
+    "ZipID": 30188,
+    "BedID": 2,
+    "roomid": 3,
+    "RoomID": 3,
+    "RoomNum": 200,
+    "RoomAvail": 1,
+    "RoomSize": "2X2"
+  },
+  {
+    "idpatient": 8,
+    "FName": "Lee",
+    "LName": "Key",
+    "street_addrs": "45 Bird Lane",
+    "ZipID": 30339,
+    "BedID": 3,
+    "roomid": 4,
+    "RoomID": 4,
+    "RoomNum": 201,
+    "RoomAvail": 1,
+    "RoomSize": "2X2"
+  },
+  {
+    "idpatient": 9,
+    "FName": "Peas",
+    "LName": "Sam",
+    "street_addrs": "Apt 3 Home Street",
+    "ZipID": 30092,
+    "BedID": 4,
+    "roomid": 4,
+    "RoomID": 4,
+    "RoomNum": 201,
+    "RoomAvail": 1,
+    "RoomSize": "2X2"
+  },
+  {
+    "idpatient": 10,
+    "FName": "John",
+    "LName": "Smith",
+    "street_addrs": "235 Street Street",
+    "ZipID": 30308,
+    "BedID": 5,
+    "roomid": 1,
+    "RoomID": 1,
+    "RoomNum": 100,
+    "RoomAvail": 0,
+    "RoomSize": "1X1"
+  }
+]
